@@ -1,0 +1,21 @@
+{
+    "title": "LeetCode题解笔记",
+    "description": "LeetCode题解笔记",
+    "language": "zh-cn",
+    "plugins": [
+        "disqus",
+        "github",
+        "baidu"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "solarex-blog"
+        },
+        "github": {
+            "url": "https://github.com/flyfire/LeetCodeSolutionComments/"
+        },
+        "baidu": {
+            "token": "7637624af7cc95a136f2fa6b644b6197"
+        }
+    }
+}
